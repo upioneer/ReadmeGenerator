@@ -1,2 +1,3 @@
-# ReadmeGenerator
-Assist with mark up language
+# README
+
+Tool I discovered to assist with mark up language for README
